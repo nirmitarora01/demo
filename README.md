@@ -1,4 +1,4 @@
 # demo
 Git repository
 <br>
-Author - NIRMIT
+Author - NIRMIT ARORA
